@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkolight_turbo_docusaurus_docs=self.webpackChunkolight_turbo_docusaurus_docs||[]).push([[8942],{7196:u=>{u.exports=JSON.parse('{"label":"docusaurus","permalink":"/Olight-Turbo-Docusaurus-Frontend-Docs/blog/tags/docusaurus","allTagsPath":"/Olight-Turbo-Docusaurus-Frontend-Docs/blog/tags","count":4}')}}]);
