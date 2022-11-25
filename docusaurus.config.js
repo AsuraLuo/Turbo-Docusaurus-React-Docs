@@ -1,8 +1,5 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
-
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require('prism-react-renderer/themes/github')
+const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -57,9 +54,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Frontend Developer Guide',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Frontend Developer Guide',
           src: 'img/logo.svg',
         },
         items: [
@@ -71,7 +68,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Olight-Headless/Olight-Turbo-Docusaurus-Frontend-Docs',
             label: 'GitHub',
             position: 'right',
           },
