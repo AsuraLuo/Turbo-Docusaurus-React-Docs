@@ -27,4 +27,3 @@ jobs:
         BRANCH: gh-pages
       with:
         folder: build
-        # BUILD_SCRIPT: yarn install && yarn run build
