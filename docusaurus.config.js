@@ -13,7 +13,7 @@ const config = {
   organizationName: 'Olight Headless',
   projectName: 'docusaurus',
   i18n: {
-    defaultLocale: 'zh',
+    defaultLocale: 'en',
     locales: ['en', 'zh'],
     localeConfigs: {
       en: {
@@ -60,7 +60,7 @@ const config = {
         title: 'Frontend Developer Guide',
         logo: {
           alt: 'Frontend Developer Guide',
-          src: 'img/logo.svg',
+          src: 'img/logo.svg'
         },
         items: [
           {
@@ -70,6 +70,10 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'localeDropdown',
+            position: 'right'
+          },
           {
             href: 'https://github.com/Olight-Headless/Olight-Turbo-Docusaurus-Frontend-Docs',
             label: 'GitHub',
@@ -125,7 +129,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-      },
+      }
     })
 }
 
