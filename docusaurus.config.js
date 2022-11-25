@@ -12,10 +12,19 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'Olight Headless',
   projectName: 'docusaurus',
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'zh-Hans',
     locales: ['en', 'zh-Hans'],
+    en: {
+      label: 'English',
+      direction: 'ltr',
+      htmlLang: 'en-US'
+    },
+    fr: {
+      label: '中文',
+      direction: 'ltr',
+      htmlLang: 'zh-Hans'
+    }
   },
   presets: [
     [
@@ -38,9 +47,9 @@ const config = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
-        },
-      }),
-    ],
+        }
+      })
+    ]
   ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -105,9 +114,9 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
+              }
+            ]
+          }
         ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
