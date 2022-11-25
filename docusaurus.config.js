@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://olight-headless.github.io/Olight-Turbo-Docusaurus-Frontend-Docs',
-  baseUrl: '/',
+  url: 'https://olight-headless.github.io',
+  baseUrl: '/Olight-Turbo-Docusaurus-Frontend-Docs',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
