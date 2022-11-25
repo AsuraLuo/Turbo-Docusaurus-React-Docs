@@ -13,17 +13,19 @@ const config = {
   organizationName: 'Olight Headless',
   projectName: 'docusaurus',
   i18n: {
-    defaultLocale: 'zh-Hans',
-    locales: ['en', 'zh-Hans'],
-    en: {
-      label: 'English',
-      direction: 'ltr',
-      htmlLang: 'en-US'
-    },
-    fr: {
-      label: '中文',
-      direction: 'ltr',
-      htmlLang: 'zh-Hans'
+    defaultLocale: 'zh',
+    locales: ['en', 'zh'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+        direction: 'ltr',
+        htmlLang: 'en-US'
+      },
+      zh: {
+        label: '中文',
+        direction: 'ltr',
+        htmlLang: 'zh-Hans'
+      }
     }
   },
   presets: [
