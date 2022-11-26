@@ -1,9 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
 
-# 编码规范
+# Hooks
 
 Let's translate `docs/intro.md` to French.
 
-## Configure i18n

@@ -1,7 +1,7 @@
 ---
-sidebar_position: 3
+sidebar_position: 5
 ---
 
-# 语法校验
+# Accessibility
 
 Let's translate `docs/intro.md` to French.

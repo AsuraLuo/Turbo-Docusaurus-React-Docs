@@ -2,10 +2,6 @@
 sidebar_position: 3
 ---
 
-# Name Rule
+# Name
 
 Let's translate `docs/intro.md` to French.
-
-
-
-
