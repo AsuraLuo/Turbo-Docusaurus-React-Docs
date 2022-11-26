@@ -1,9 +1,9 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# 编码规范
+# Coding Style
 
 Let's translate `docs/intro.md` to French.
 
-## Configure i18n
+

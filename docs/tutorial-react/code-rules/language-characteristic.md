@@ -2,8 +2,9 @@
 sidebar_position: 2
 ---
 
-# 编码规范
+# Language Characteristic
 
 Let's translate `docs/intro.md` to French.
 
-## Configure i18n
+
+
