@@ -27,7 +27,7 @@ function HomepageHeader() {
   );
 }
 
-export default function Home(): JSX.Element {
+const Home = (): JSX.Element => {
   const { siteConfig } = useDocusaurusContext()
 
   return (
@@ -41,3 +41,5 @@ export default function Home(): JSX.Element {
     </Layout>
   )
 }
+
+export default Home
