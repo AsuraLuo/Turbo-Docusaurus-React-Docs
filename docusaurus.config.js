@@ -35,15 +35,11 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/Olight-Headless/Olight-Turbo-Docusaurus-Frontend-Docs/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/Olight-Headless/Olight-Turbo-Docusaurus-Frontend-Docs/',
         },
@@ -69,7 +65,32 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            label: 'Community',
+            position: 'left',
+            items: [
+              {
+                to: '/community',
+                label: 'Community Hub',
+                rel: null,
+              },
+              {
+                to: '/forum',
+                label: 'Forum',
+                rel: null
+              },
+              {
+                to: '/omall',
+                label: 'Omall Shop',
+                rel: null
+              }
+            ]
+          },
+          {
+            to: '/blog',
+            label: 'Blog',
+            position: 'left'
+          },
           {
             type: 'localeDropdown',
             position: 'right'

@@ -112,11 +112,11 @@
     "description": "The ARIA label for the docs pagination"
   },
   "theme.docs.paginator.previous": {
-    "message": "Previous",
+    "message": "上一页",
     "description": "The label used to navigate to the previous doc"
   },
   "theme.docs.paginator.next": {
-    "message": "Next",
+    "message": "下一页",
     "description": "The label used to navigate to the next doc"
   },
   "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
@@ -151,7 +151,7 @@
     "description": "The label used for the latest version suggestion link label"
   },
   "theme.common.editThisPage": {
-    "message": "Edit this page",
+    "message": "编辑页面",
     "description": "The link label to edit the current page"
   },
   "theme.common.headingLinkTitle": {
@@ -268,58 +268,6 @@
   "theme.SearchPage.fetchingNewResults": {
     "message": "Fetching new results...",
     "description": "The paragraph for fetching new search results"
-  },
-  "What can I use an ENS name for?": {
-    "message": "What can I use an ENS name for?",
-    "description": "Landing Page Card Title"
-  },
-  "An ENS Name is an way to remember you cryptocurrency addresses": {
-    "message": "An ENS Name is an way to remember you cryptocurrency addresses",
-    "description": "Landing Page Card Subtitle"
-  },
-  "Registering a Name": {
-    "message": "Registering a Name",
-    "description": "Landing Page Card Title"
-  },
-  "Go to the ENS Manager App and connect your wallet with the connect-button.": {
-    "message": "Go to the ENS Manager App and connect your wallet with the connect-button.",
-    "description": "Landing Page Card Subtitle"
-  },
-  "Setting your Profile Avatar": {
-    "message": "Setting your Profile Avatar",
-    "description": "Landing Page Card Title"
-  },
-  "If you don’t already have an ENS name, you can register an ENS name or import a DNS domain name you already own at app.ens.domains.ç You can set an NFT avatar for either kind of ENS name.": {
-    "message": "If you don’t already have an ENS name, you can register an ENS name or import a DNS domain name you already own at app.ens.domains.ç You can set an NFT avatar for either kind of ENS name.",
-    "description": "Landing Page Card Subtitle"
-  },
-  "Frequently Asked Questions": {
-    "message": "Frequently Asked Questions",
-    "description": "FAQ"
-  },
-  "Learn about your new web3 identity.": {
-    "message": "Learn about your new web3 identity.",
-    "description": "Landing page - hero subtitle"
-  },
-  "Using your Name": {
-    "message": "Using your Name",
-    "description": "Landing Page Card Title"
-  },
-  "An ENS Name is an way to remember you cryptocurrency addresses.": {
-    "message": "An ENS Name is an way to remember you cryptocurrency addresses.",
-    "description": "Landing Page Card Subtitle"
-  },
-  "Setting your Avatar": {
-    "message": "Setting your Avatar",
-    "description": "Landing Page Card Title"
-  },
-  "Transferring Names": {
-    "message": "Transferring Names",
-    "description": "Landing Page Card Title"
-  },
-  "You can easily transfer your name by changing the controller record on the manager app.": {
-    "message": "You can easily transfer your name by changing the controller record on the manager app.",
-    "description": "Landing Page Card Subtitle"
   },
   "theme.admonition.note": {
     "message": "note",

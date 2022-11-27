@@ -1,14 +1,30 @@
 {
+  "sidebar.tutorialSidebar.category.Tutorial CSS": {
+    "message": "CSS 规范",
+    "description": "CSS 规范"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial HTML": {
+    "message": "HTML 规范",
+    "description": "HTML 规范"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial Javascript": {
+    "message": "Javascript 规范",
+    "description": "Javascript 规范"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial Typescript": {
+    "message": "Typescript 规范",
+    "description": "Typescript 规范"
+  },
   "sidebar.tutorialSidebar.category.Tutorial React": {
-    "message": "React教程",
-    "description": "The label for category Getting Started in sidebar tutorialSidebar"
+    "message": "React 规范",
+    "description": "React 规范"
   },
   "sidebar.tutorialSidebar.category.Coding Protocol": {
     "message": "编码规约",
-    "description": "The label for category Getting Started in sidebar tutorialSidebar"
+    "description": "编码规约"
   },
   "sidebar.tutorialSidebar.category.Lint Tools": {
     "message": "检验工具",
-    "description": "The label for category Getting Started in sidebar tutorialSidebar"
+    "description": "检验工具"
   }
 }
