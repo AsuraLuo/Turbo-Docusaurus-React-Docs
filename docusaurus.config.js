@@ -70,17 +70,17 @@ const config = {
             position: 'left',
             items: [
               {
-                to: '/community/omall',
+                to: '/',
                 label: 'Omall Ecommerce',
                 rel: null,
               },
               {
-                to: '/community/obuy',
+                to: '/',
                 label: 'Obuy Ecommerce',
                 rel: null
               },
               {
-                to: '/community/oms',
+                to: '/',
                 label: 'OMS System',
                 rel: null
               }
