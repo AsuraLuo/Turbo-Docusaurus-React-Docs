@@ -3,6 +3,6 @@
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "JavaScript 编码规约主要包含编码风格、语言特性、注释、命名、配套工具等几个部分。本规约面向的 ECMAScript 语言版本是 ES6+，并提供了「关于 ES5」章节供仍在使用 ES5 的开发者查阅。"
   }
 }
