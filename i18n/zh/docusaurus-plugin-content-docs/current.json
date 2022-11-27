@@ -1,0 +1,14 @@
+{
+  "sidebar.tutorialSidebar.category.Tutorial React": {
+    "message": "React教程",
+    "description": "The label for category Getting Started in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Coding Protocol": {
+    "message": "编码规约",
+    "description": "The label for category Getting Started in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Lint Tools": {
+    "message": "检验工具",
+    "description": "The label for category Getting Started in sidebar tutorialSidebar"
+  }
+}
